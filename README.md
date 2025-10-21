@@ -1,11 +1,11 @@
-# 🧩 Customer Segmentation Analysis for DataCo Global
+## Customer Segmentation Analysis for DataCo Global
 
-### Team Members: Yufei Shang, Shrinidhi Bhide, Ohm Srikiatkhachorn, Wenlin Zhao  
+#### Team Members: Yufei Shang, Shrinidhi Bhide, Ohm Srikiatkhachorn, Wenlin Zhao  
 Date: March 2025  
 
 ---
 
-## 📘 Project Overview 
+### Project Overview 
 
 This project develops a **multi-faceted customer segmentation framework** for DataCo Global.  
 We integrate both **transactional data** (purchase amount, discount usage, shipping time) and **behavioral data** (clickstream and browsing patterns) to improve **targeted marketing**, **conversion optimization**, and **customer retention** strategies.  
@@ -13,7 +13,7 @@ We integrate both **transactional data** (purchase amount, discount usage, shipp
 
 ---
 
-## 🧠 Key Objectives 
+### Key Objectives 
 1. **Behavioral Segmentation – Clickstream Aggregation**  
    Identify high-interest, low-conversion products through browsing data analysis.  
 2. **Temporal & Sequential Pattern Analysis**  
@@ -23,7 +23,7 @@ We integrate both **transactional data** (purchase amount, discount usage, shipp
 
 ---
 
-## 🧰 Methods & Techniques Used 
+### Methods & Techniques Used 
 
 - **Data Sources:**
   
@@ -42,7 +42,7 @@ We integrate both **transactional data** (purchase amount, discount usage, shipp
 
 ---
 
-## 💡 Key Findings 
+### Key Findings 
 
 - **High Correlation & Feature Reduction:** Removed redundant variables (e.g., Sales vs Profit).  
 - **Skewness Correction:** Used log and exponential transformations to normalize data.  
@@ -52,7 +52,7 @@ We integrate both **transactional data** (purchase amount, discount usage, shipp
 
 ---
 
-## ⚠️ Important Notes 
+### Important Notes 
 
 - The file **`Customer-Segmentation-Analysis-for-DataCo-Global.zip`** contains the **Google Colab Notebook**.  
   Please **download and extract** it locally to view the source code.
